@@ -1,3 +1,8 @@
+# Important Note:
+This fork is only intented for use with chattriggers, if you would like to use this library for any other purpose please use the original library.
+
+# Orginal REAMDE:
+
 [version]: https://api.bintray.com/packages/jagrosh/maven/DiscordIPC/images/download.svg
 [download]: https://bintray.com/jagrosh/maven/DiscordIPC/_latestVersion
 [license]: https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg
